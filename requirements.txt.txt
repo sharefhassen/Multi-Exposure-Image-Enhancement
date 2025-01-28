@@ -1,0 +1,9 @@
+tensorflow==1.15.0
+numpy
+opencv-python
+matplotlib
+scikit-image
+lpips
+torch
+torchvision
+Pillow

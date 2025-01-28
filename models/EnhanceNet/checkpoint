@@ -1,0 +1,6 @@
+model_checkpoint_path: "enhance-epoch-100000"
+all_model_checkpoint_paths: "enhance-epoch-98400"
+all_model_checkpoint_paths: "enhance-epoch-98800"
+all_model_checkpoint_paths: "enhance-epoch-99200"
+all_model_checkpoint_paths: "enhance-epoch-99600"
+all_model_checkpoint_paths: "enhance-epoch-100000"
