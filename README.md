@@ -130,14 +130,3 @@ The following table summarizes the quantitative performance of the proposed meth
 
 ### Visual Comparisons
 Refer to the `results/enhance_sample` directory for visual comparisons of enhanced images across different exposure conditions.
-
-## Citation
-If you use this code, please cite our paper:
-```bibtex
-@article{your_paper_citation,
-  title={Convolutional Neural Network-Based Multi-Exposure Fusion for Single-Image Contrast Enhancement},
-  author={Sharef Hassen and Others},
-  journal={Digital Signal Processing},
-  year={2024},
-}
-```
